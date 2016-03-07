@@ -1,2 +1,2 @@
 # My-FreeCodeCamp-Code
-Tracking my journey through FreeCodeCamp
+This is a journal where I keep a record of everything I have done and learned from Free Code Camp. 
